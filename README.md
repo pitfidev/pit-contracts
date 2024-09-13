@@ -14,6 +14,7 @@ We'd love to hear your feedback and ideas! Feel free to explore the code, sugges
 If you need any assistance, we're here to help:
 
 Website: https://pit.finance
+
 Email: support@pit.finance
 
 ## License
