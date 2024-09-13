@@ -18,6 +18,6 @@ Website: https://pit.finance
 Email: support@pit.finance
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the GNU Affero General Public License v3.0 License. See the LICENSE file for more details.
 
 Thank you for choosing Pit.Finance to simplify your DeFi investments!
